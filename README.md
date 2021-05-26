@@ -20,6 +20,7 @@
 | 397      | [Integer Replacement](397-integer-replacement) | <span style="color: Orange;">**Medium** </span> |
 | 415      | [Add Strings](415-add-strings) | <span style="color: Green;">**Easy** </span>|
 | 507      | [Perfect Number](507-perfect-number) | <span style="color: Green;">**Easy** </span>|
+| 535      | [Encode and Decode TinyURL](535-encode-and-decode-TinyURL) | <span style="color: Orange;">**Medium** </span> |
 | 633      | [Sum of Square Numbers](633-sum-of-square-numbers) | <span style="color: Orange;">**Medium** </span> |
 | 728      | [Self Dividing Number](728-self-dividing-numbers) | <span style="color: Green;">**Easy** </span>|
 | 989      | [Add to Array Form of Integer](989-add-to-array-form-of-integer) | <span style="color: Green;">**Easy** </span>|
@@ -31,6 +32,8 @@
 | ID        | Problem           | Difficulty |
 | ------------- |:-------------:|:-------------:|
 | 175      | [Combine Two Tables](175-combine-two-tables) | <span style="color: Green;">**Easy** </span>|
+| 511      | [Game Play Analysis I](511-game-play-analysis-I) | <span style="color: Green;">**Easy** </span>|
+| 512      | [Game Play Analysis II](512-game-play-analysis-II) | <span style="color: Green;">**Easy** </span>|
 | 577      | [Employee Bonus](577-employee-bonus) | <span style="color: Green;">**Easy** </span>|
 | 580      | [Count Student Number in Departments](580-count-student-number-in-departments) | <span style="color: Orange;">**Medium** </span> |
 | 1241      | [Number of Comments per Post](1241-number-of-comments-per-post) | <span style="color: Green;">**Easy** </span>|
