@@ -14,7 +14,9 @@
 | 8      | [String to Integer (atoi)](8-string-to-integer-atoi) | <span style="color: Orange;">**Medium** </span> |
 | 9      | [Palindrome Number](9-palindrome-number) |  <span style="color: Green;">**Easy** </span>|
 | 11      | [Container With Most Water](11-container-with-most-water) | <span style="color: Orange;">**Medium** </span> |
-| 43      | [Multiply String](43-multiply_strings) | <span style="color: Orange;">**Medium** </span> |
+| 12      | [Integer to Roman](12-integer-to-roman) | <span style="color: Orange;">**Medium** </span> |
+| 13      | [Roman to Integer](13-roman-to-integer) | **Easy** |
+| 43      | [Multiply String](43-multiply-strings) | <span style="color: Orange;">**Medium** </span> |
 | 58      | [Length of Last Word](58-length-of-last-word) | **Easy** |
 | 66      | [Plus One](66-plus-one) | <span style="color: Green;">**Easy** </span>|
 | 67      | [Add Binary](67-add-binary) | <span style="color: Green;">**Easy** </span>|
@@ -23,6 +25,7 @@
 | 202      | [Happy Number](202-happy-number) | <span style="color: Green;">**Easy** </span>|
 | 243      | [Shortest Word Distance](243-shortest-word-distance) | <span style="color: Green;">**Easy** </span>|
 | 266      | [Palindrome Permutation](266-palindrome-permutation) | <span style="color: Green;">**Easy** </span>|
+| 349      | [Intersection of Two Arrays](349-intersection-of-two-arrays) | <span style="color: Green;">**Easy** </span>|
 | 367      | [Valid Perfect Square](367-valid-perfect-square) | <span style="color: Green;">**Easy** </span>|
 | 397      | [Integer Replacement](397-integer-replacement) | <span style="color: Orange;">**Medium** </span> |
 | 415      | [Add Strings](415-add-strings) | <span style="color: Green;">**Easy** </span>|
