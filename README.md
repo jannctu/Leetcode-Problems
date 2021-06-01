@@ -16,15 +16,20 @@
 | 11      | [Container With Most Water](11-container-with-most-water) | <span style="color: Orange;">**Medium** </span> |
 | 12      | [Integer to Roman](12-integer-to-roman) | <span style="color: Orange;">**Medium** </span> |
 | 13      | [Roman to Integer](13-roman-to-integer) | **Easy** |
+| 14      | [Longest Common Prefix](14-longest-common-prefix) |  <span style="color: Green;">**Easy** </span>|
+| 28      | [Implement strStr()](28-implement-strStr) |  <span style="color: Green;">**Easy** </span>|
 | 43      | [Multiply String](43-multiply-strings) | <span style="color: Orange;">**Medium** </span> |
 | 58      | [Length of Last Word](58-length-of-last-word) | **Easy** |
 | 66      | [Plus One](66-plus-one) | <span style="color: Green;">**Easy** </span>|
 | 67      | [Add Binary](67-add-binary) | <span style="color: Green;">**Easy** </span>|
 | 69      | [Sqrt(x)](69-sqrt(x)) | <span style="color: Green;">**Easy** </span>|
+| 125      | [Valid Palindrome](125-valid-palindrome) | <span style="color: Green;">**Easy** </span>|
 | 145      | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal) | <span style="color: Green;">**Easy** </span>|
+| 167      | [Two Sum II - Input array is sorted](167-two-sum-II) | <span style="color: Green;">**Easy** </span>|
 | 202      | [Happy Number](202-happy-number) | <span style="color: Green;">**Easy** </span>|
 | 243      | [Shortest Word Distance](243-shortest-word-distance) | <span style="color: Green;">**Easy** </span>|
 | 266      | [Palindrome Permutation](266-palindrome-permutation) | <span style="color: Green;">**Easy** </span>|
+| 283      | [Move Zeroes](283-move-zeroes) | <span style="color: Green;">**Easy** </span>|
 | 349      | [Intersection of Two Arrays](349-intersection-of-two-arrays) | <span style="color: Green;">**Easy** </span>|
 | 367      | [Valid Perfect Square](367-valid-perfect-square) | <span style="color: Green;">**Easy** </span>|
 | 397      | [Integer Replacement](397-integer-replacement) | <span style="color: Orange;">**Medium** </span> |
@@ -52,6 +57,9 @@
 | 512      | [Game Play Analysis II](512-game-play-analysis-II) | <span style="color: Green;">**Easy** </span>|
 | 577      | [Employee Bonus](577-employee-bonus) | <span style="color: Green;">**Easy** </span>|
 | 580      | [Count Student Number in Departments](580-count-student-number-in-departments) | <span style="color: Orange;">**Medium** </span> |
+| 586      | [Customer Placing the Largest Number of Orders](586-customer-placing-the-largest-number-of-orders) | <span style="color: Green;">**Easy** </span>|
+| 595      | [Big Countries](595-big-countries) | <span style="color: Green;">**Easy** </span>|
+| 596      | [Classes More Than 5 Students](596-classes-more-than-5-sudents) | <span style="color: Green;">**Easy** </span>|
 | 607      | [Sales Person](607-sales-person) | <span style="color: Green;">**Easy** </span>|
 | 620      | [Not Boring Movies](620-not-boring-movies) | <span style="color: Green;">**Easy** </span>|
 | 1158      | [Market Analysis I](1158-market-analysis-I) | <span style="color: Orange;">**Medium** </span> |
