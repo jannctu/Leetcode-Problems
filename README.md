@@ -19,6 +19,7 @@
 | 14      | [Longest Common Prefix](14-longest-common-prefix) |  <span style="color: Green;">**Easy** </span>|
 | 28      | [Implement strStr()](28-implement-strStr) |  <span style="color: Green;">**Easy** </span>|
 | 43      | [Multiply String](43-multiply-strings) | <span style="color: Orange;">**Medium** </span> |
+| 53      | [Maximum Subarray](53-maximum-subarray) |  <span style="color: Green;">**Easy** </span>|
 | 58      | [Length of Last Word](58-length-of-last-word) | **Easy** |
 | 66      | [Plus One](66-plus-one) | <span style="color: Green;">**Easy** </span>|
 | 67      | [Add Binary](67-add-binary) | <span style="color: Green;">**Easy** </span>|
@@ -40,7 +41,9 @@
 | 633      | [Sum of Square Numbers](633-sum-of-square-numbers) | <span style="color: Orange;">**Medium** </span> |
 | 728      | [Self Dividing Number](728-self-dividing-numbers) | <span style="color: Green;">**Easy** </span>|
 | 989      | [Add to Array Form of Integer](989-add-to-array-form-of-integer) | <span style="color: Green;">**Easy** </span>|
+| 1134      | [Armstrong Number](1134-armstrong-number) | <span style="color: Green;">**Easy** </span>|
 | 1137      | [N-th Tribonacci Number](1137-N-th-tribonacci-number) | <span style="color: Green;">**Easy** </span>|
+| 1189      | [Maximum Number of Balloons](1189-maximum-number-of-balloons) | <span style="color: Green;">**Easy** </span>|
 | 1672      | [Richest Customer Wealth](1672-richest-customer-wealth) | <span style="color: Green;">**Easy** </span>|
 | 1762     | [Buildings With an Ocean View](1762-buildings-with-an-ocean-view) | <span style="color: Orange;">**Medium** </span> |
 | 1780     | [Check if Number is a Sum of Powers of Three](1780-check-if-number-is-a-sum-of-powers-of-three) | <span style="color: Orange;">**Medium** </span> |
@@ -62,11 +65,13 @@
 | 596      | [Classes More Than 5 Students](596-classes-more-than-5-sudents) | <span style="color: Green;">**Easy** </span>|
 | 607      | [Sales Person](607-sales-person) | <span style="color: Green;">**Easy** </span>|
 | 620      | [Not Boring Movies](620-not-boring-movies) | <span style="color: Green;">**Easy** </span>|
+| 1075      | [Project Employees I](1075-project-employees-I) | <span style="color: Green;">**Easy** </span>|
 | 1158      | [Market Analysis I](1158-market-analysis-I) | <span style="color: Orange;">**Medium** </span> |
 | 1241      | [Number of Comments per Post](1241-number-of-comments-per-post) | <span style="color: Green;">**Easy** </span>|
 | 1280      | [Students and Examinations](1280-students-and-examinations) | <span style="color: Green;">**Easy** </span>|
 | 1294      | [Weather Type in Each Country](1294-weather-type-in-each-country) | <span style="color: Green;">**Easy** </span>|
 | 1327      | [List The Products ordered in a periode](1327-list-the-products-ordered-in-a-period) | <span style="color: Green;">**Easy** </span>|
+| 1407      | [Top Travellers](1407-top-travellers) | <span style="color: Green;">**Easy** </span>|
 | 1517      | [Find Users with Valid E-Mail](1517-find-users-with-valid-e-Mails) | <span style="color: Green;">**Easy** </span>|
 | 1527      | [Patients With a Condition](1527-patients-with-a-condition) | <span style="color: Green;">**Easy** </span>|
 | 1757      | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products) | <span style="color: Green;">**Easy** </span>|
