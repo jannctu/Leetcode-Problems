@@ -40,6 +40,8 @@ But, there are a few things we need to handle here. The first is regarding the n
 
 So here is my solution.
 
+**Converting number to string. **
+
 ```python
 def reverse(x):
     neg = False
@@ -61,6 +63,23 @@ def reverse(x):
 ```
 
 **Another alternative solution is using Div and Mod! (So scientist though 😆 )**
-
+```python 
+class Solution:
+    def reverse(self, x: int) -> int:
+        neg = x < 0
+        x = abs(x)
+        rev = 0 
+        while(x != 0): 
+            n = x % 10 
+            x = x // 10 
+            rev = rev * 10 + n
+            
+        if rev > (2**31):
+            return 0
+        if neg:
+            rev = rev * -1
+        
+        return rev
+```
 ## My Submission 
 ![my_submission](my_submission.png)

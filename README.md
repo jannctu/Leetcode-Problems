@@ -24,6 +24,7 @@
 | 66      | [Plus One](66-plus-one) | <span style="color: Green;">**Easy** </span>|
 | 67      | [Add Binary](67-add-binary) | <span style="color: Green;">**Easy** </span>|
 | 69      | [Sqrt(x)](69-sqrt(x)) | <span style="color: Green;">**Easy** </span>|
+| 118      | [Pascal Triangle](118-pascal-triangle) | <span style="color: Green;">**Easy** </span>|
 | 125      | [Valid Palindrome](125-valid-palindrome) | <span style="color: Green;">**Easy** </span>|
 | 145      | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal) | <span style="color: Green;">**Easy** </span>|
 | 167      | [Two Sum II - Input array is sorted](167-two-sum-II) | <span style="color: Green;">**Easy** </span>|
@@ -35,11 +36,13 @@
 | 367      | [Valid Perfect Square](367-valid-perfect-square) | <span style="color: Green;">**Easy** </span>|
 | 397      | [Integer Replacement](397-integer-replacement) | <span style="color: Orange;">**Medium** </span> |
 | 415      | [Add Strings](415-add-strings) | <span style="color: Green;">**Easy** </span>|
+| 496      | [Next Greater Element I](496-next-greater-element-1) | <span style="color: Green;">**Easy** </span>|
 | 507      | [Perfect Number](507-perfect-number) | <span style="color: Green;">**Easy** </span>|
 | 509      | [Fibonacci Number](509-fibonacci-number) | <span style="color: Green;">**Easy** </span>|
 | 535      | [Encode and Decode TinyURL](535-encode-and-decode-TinyURL) | <span style="color: Orange;">**Medium** </span> |
 | 633      | [Sum of Square Numbers](633-sum-of-square-numbers) | <span style="color: Orange;">**Medium** </span> |
 | 728      | [Self Dividing Number](728-self-dividing-numbers) | <span style="color: Green;">**Easy** </span>|
+| 819      | [Most Common Word](819-most-common-word) | <span style="color: Green;">**Easy** </span>|
 | 989      | [Add to Array Form of Integer](989-add-to-array-form-of-integer) | <span style="color: Green;">**Easy** </span>|
 | 1134      | [Armstrong Number](1134-armstrong-number) | <span style="color: Green;">**Easy** </span>|
 | 1137      | [N-th Tribonacci Number](1137-N-th-tribonacci-number) | <span style="color: Green;">**Easy** </span>|
