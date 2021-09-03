@@ -26,12 +26,19 @@
 | 69      | [Sqrt(x)](69-sqrt(x)) | <span style="color: Green;">**Easy** </span>|
 | 118      | [Pascal Triangle](118-pascal-triangle) | <span style="color: Green;">**Easy** </span>|
 | 125      | [Valid Palindrome](125-valid-palindrome) | <span style="color: Green;">**Easy** </span>|
+| 144      | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal) | <span style="color: Green;">**Easy** </span>|
 | 145      | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal) | <span style="color: Green;">**Easy** </span>|
 | 167      | [Two Sum II - Input array is sorted](167-two-sum-II) | <span style="color: Green;">**Easy** </span>|
+| 172      | [Factorial Trailing Zeroes](172-factorial-trailing-zeroes) | <span style="color: Green;">**Easy** </span>|
 | 202      | [Happy Number](202-happy-number) | <span style="color: Green;">**Easy** </span>|
+| 203      | [Remove Linked-list Elements](203-remove-linked-list-elements) | <span style="color: Green;">**Easy** </span>|
+| 231      | [Power of Two](231-power-of-two) | <span style="color: Green;">**Easy** </span>|
 | 243      | [Shortest Word Distance](243-shortest-word-distance) | <span style="color: Green;">**Easy** </span>|
+| 258      | [Add-Digits](258-add-digits) | <span style="color: Green;">**Easy** </span>|
+| 263      | [Ugly Number](263-ugly-number) | <span style="color: Green;">**Easy** </span>|
 | 266      | [Palindrome Permutation](266-palindrome-permutation) | <span style="color: Green;">**Easy** </span>|
 | 283      | [Move Zeroes](283-move-zeroes) | <span style="color: Green;">**Easy** </span>|
+| 290      | [Word Pattern](290-word-pattern) | <span style="color: Green;">**Easy** </span>|
 | 349      | [Intersection of Two Arrays](349-intersection-of-two-arrays) | <span style="color: Green;">**Easy** </span>|
 | 367      | [Valid Perfect Square](367-valid-perfect-square) | <span style="color: Green;">**Easy** </span>|
 | 397      | [Integer Replacement](397-integer-replacement) | <span style="color: Orange;">**Medium** </span> |
@@ -43,10 +50,12 @@
 | 633      | [Sum of Square Numbers](633-sum-of-square-numbers) | <span style="color: Orange;">**Medium** </span> |
 | 728      | [Self Dividing Number](728-self-dividing-numbers) | <span style="color: Green;">**Easy** </span>|
 | 819      | [Most Common Word](819-most-common-word) | <span style="color: Green;">**Easy** </span>|
+| 819      | [Uncommon words from two sentences](884-uncommon-words-from-two-sentences) | <span style="color: Green;">**Easy** </span>|
 | 989      | [Add to Array Form of Integer](989-add-to-array-form-of-integer) | <span style="color: Green;">**Easy** </span>|
 | 1134      | [Armstrong Number](1134-armstrong-number) | <span style="color: Green;">**Easy** </span>|
 | 1137      | [N-th Tribonacci Number](1137-N-th-tribonacci-number) | <span style="color: Green;">**Easy** </span>|
 | 1189      | [Maximum Number of Balloons](1189-maximum-number-of-balloons) | <span style="color: Green;">**Easy** </span>|
+| 1464      | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array) | <span style="color: Green;">**Easy** </span>|
 | 1672      | [Richest Customer Wealth](1672-richest-customer-wealth) | <span style="color: Green;">**Easy** </span>|
 | 1762     | [Buildings With an Ocean View](1762-buildings-with-an-ocean-view) | <span style="color: Orange;">**Medium** </span> |
 | 1780     | [Check if Number is a Sum of Powers of Three](1780-check-if-number-is-a-sum-of-powers-of-three) | <span style="color: Orange;">**Medium** </span> |
@@ -59,6 +68,7 @@
 | ------------- |:-------------:|:-------------:|
 | 175      | [Combine Two Tables](175-combine-two-tables) | <span style="color: Green;">**Easy** </span>|
 | 181      | [Employees Earning More Than Their Managers](181-employees-earning-more-than-their-managers) | <span style="color: Green;">**Easy** </span>|
+| 182      | [Duplicate Emails](182-duplicate-emails) | <span style="color: Green;">**Easy** </span>|
 | 511      | [Game Play Analysis I](511-game-play-analysis-I) | <span style="color: Green;">**Easy** </span>|
 | 512      | [Game Play Analysis II](512-game-play-analysis-II) | <span style="color: Green;">**Easy** </span>|
 | 577      | [Employee Bonus](577-employee-bonus) | <span style="color: Green;">**Easy** </span>|
