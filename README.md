@@ -1,6 +1,6 @@
-# Leedcode Problems 
+# Leetcode Problems 
 
-**This repository contain my solutions on python of leedcode problems**
+**This repository contain my solutions of leetcode problems**
 
 ### Algorithm & Data Structure 
 

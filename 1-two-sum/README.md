@@ -36,6 +36,8 @@ You can return the answer in any order.
 ### Solution 1: Brute Force 
 
 Simple double for could be implemented to solve this problem 
+
+<b>Python</b>
 ````python
 def twoSum(nums: List[int], target: int):        
     for i in range(0,len(nums)-1): 
@@ -46,8 +48,27 @@ def twoSum(nums: List[int], target: int):
     return []
 ````
 
+<b>Java</b>
+````java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = i + 1; j < nums.length; j++)  {
+                if (nums[i] + nums[j] == target) {
+                    return new int[] {i, j};
+                } 
+            }
+        }
+
+        return new int[] {};
+    }
+}
+````
+
 ### Solution 2: Dictionary
 Take the complements and store in `Dictionary`
+
+<b>Python</b>
 ```python
 def twoSum(nums: List[int], target: int):        
      d = {}
@@ -58,6 +79,27 @@ def twoSum(nums: List[int], target: int):
             return [i,d[nums[i]]]
         else:
             d[sisa] = i
+```
+
+<b>Java</b>
+```java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> numDic= new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+           int sisa = target - nums[i];
+
+           if (numDic.containsKey(sisa)) {
+               return new int[] {i, numDic.get(sisa)};
+           } else {
+               numDic.put(nums[i], i);
+           }
+        }
+
+        return new int[] {};
+    }
+}
 ```
 
 
