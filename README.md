@@ -10,9 +10,11 @@
 | 2      | [Add Two Numbers](2-add-two-numbers) | <span style="color: Orange;">**Medium** </span> |
 | 3      | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | <span style="color: Orange;">**Medium** </span> |
 | 5      | [Longest Palindromic Substring](5-longest-palindromic-substring) | <span style="color: Orange;">**Medium** </span> |
+| 5      | [Zigzag Conversion](6-zigzag-conversion) | <span style="color: Orange;">**Medium** </span> |
 | 7      | [Reverse Integer](7-reverse-integer) |  <span style="color: Green;">**Easy** </span>|
 | 8      | [String to Integer (atoi)](8-string-to-integer-atoi) | <span style="color: Orange;">**Medium** </span> |
 | 9      | [Palindrome Number](9-palindrome-number) |  <span style="color: Green;">**Easy** </span>|
+| 10      | [Regular Expression Matching](10-regular-expression-matching) |  <span style="color: Red;">**Hard** </span>|
 | 11      | [Container With Most Water](11-container-with-most-water) | <span style="color: Orange;">**Medium** </span> |
 | 12      | [Integer to Roman](12-integer-to-roman) | <span style="color: Orange;">**Medium** </span> |
 | 13      | [Roman to Integer](13-roman-to-integer) | **Easy** |
