@@ -9,8 +9,9 @@
 | 1      | [Two Sum](1-two-sum) | <span style="color: Green;">**Easy** </span>|
 | 2      | [Add Two Numbers](2-add-two-numbers) | <span style="color: Orange;">**Medium** </span> |
 | 3      | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | <span style="color: Orange;">**Medium** </span> |
+| 4      | [Median of two sorted arrays](4-median-of-two-sorted-arrays) | <span style="color: Red;">**Hard** </span> |
 | 5      | [Longest Palindromic Substring](5-longest-palindromic-substring) | <span style="color: Orange;">**Medium** </span> |
-| 5      | [Zigzag Conversion](6-zigzag-conversion) | <span style="color: Orange;">**Medium** </span> |
+| 6      | [Zigzag Conversion](6-zigzag-conversion) | <span style="color: Orange;">**Medium** </span> |
 | 7      | [Reverse Integer](7-reverse-integer) |  <span style="color: Green;">**Easy** </span>|
 | 8      | [String to Integer (atoi)](8-string-to-integer-atoi) | <span style="color: Orange;">**Medium** </span> |
 | 9      | [Palindrome Number](9-palindrome-number) |  <span style="color: Green;">**Easy** </span>|
@@ -19,6 +20,7 @@
 | 12      | [Integer to Roman](12-integer-to-roman) | <span style="color: Orange;">**Medium** </span> |
 | 13      | [Roman to Integer](13-roman-to-integer) | **Easy** |
 | 14      | [Longest Common Prefix](14-longest-common-prefix) |  <span style="color: Green;">**Easy** </span>|
+| 15      | [3Sum](15-3sum) |  <span style="color: Orange;">**Medium** </span>|
 | 28      | [Implement strStr()](28-implement-strStr) |  <span style="color: Green;">**Easy** </span>|
 | 43      | [Multiply String](43-multiply-strings) | <span style="color: Orange;">**Medium** </span> |
 | 53      | [Maximum Subarray](53-maximum-subarray) |  <span style="color: Green;">**Easy** </span>|
@@ -68,12 +70,12 @@
 | 1137      | [N-th Tribonacci Number](1137-N-th-tribonacci-number) | <span style="color: Green;">**Easy** </span>|
 | 1189      | [Maximum Number of Balloons](1189-maximum-number-of-balloons) | <span style="color: Green;">**Easy** </span>|
 | 1464      | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array) | <span style="color: Green;">**Easy** </span>|
-
 | 1672      | [Sort array by increasing frequency](1636-sort-array-by-increasing-frequency) | <span style="color: Green;">**Easy** </span>|
 | 1672      | [Richest Customer Wealth](1672-richest-customer-wealth) | <span style="color: Green;">**Easy** </span>|
 | 1762     | [Buildings With an Ocean View](1762-buildings-with-an-ocean-view) | <span style="color: Orange;">**Medium** </span> |
 | 1780     | [Check if Number is a Sum of Powers of Three](1780-check-if-number-is-a-sum-of-powers-of-three) | <span style="color: Orange;">**Medium** </span> |
 | 1837      | [Sum of Digits in Base K](1837-sum-of-digits-in-base-K) | <span style="color: Green;">**Easy** </span>|
+| 2000      | [New Leetcode Problem](2000-new-leetcode-problem) | <span style="color: Green;">**Easy** </span>|
 
 
 ### Database & SQL 
